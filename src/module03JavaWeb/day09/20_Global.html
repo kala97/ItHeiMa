@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Global</title>
+    <script>
+        var str = "传智播客";
+        var encode1 = encodeURI(str);
+        document.write(encode1+"<br>");
+        var decode1 = decodeURI(encode1);
+        document.write(decode1+"<br>");
+
+        var str = "传智播客";
+        var encode2 = encodeURIComponent(str);
+        document.write(encode2+"<br>");
+        var decode2 = decodeURIComponent(encode2);
+        document.write(decode2+"<br>");
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>
