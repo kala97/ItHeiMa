@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day14_ServletHttpRequest" />
+        <module name="day14_test" />
+        <module name="day13_servlet" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="day13_servlet" target="1.8" />
+      <module name="day13_tomcat" target="1.8" />
+      <module name="day14_ServletHttpRequest" target="1.8" />
+      <module name="day14_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="day14_ServletHttpRequest:war">
+    <output-path>$PROJECT_DIR$/../day14_ServletHttpRequest/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>day14_ServletHttpRequest</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="day14_ServletHttpRequest-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="day14_ServletHttpRequest:war exploded" />
+    </root>
+  </artifact>
+</component>
