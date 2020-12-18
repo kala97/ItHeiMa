@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/../day13_servlet/day13_servlet.iml" filepath="$PROJECT_DIR$/../day13_servlet/day13_servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/../day14_ServletHttpRequest/day14_ServletHttpRequest.iml" filepath="$PROJECT_DIR$/../day14_ServletHttpRequest/day14_ServletHttpRequest.iml" />
       <module fileurl="file://$PROJECT_DIR$/../day14_test/day14_test.iml" filepath="$PROJECT_DIR$/../day14_test/day14_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day15_Response/day15_Response.iml" filepath="$PROJECT_DIR$/../day15_Response/day15_Response.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day16_CookieSession/day16_CookieSession.iml" filepath="$PROJECT_DIR$/../day16_CookieSession/day16_CookieSession.iml" />
     </modules>
   </component>
 </project>
